@@ -6,7 +6,7 @@ submit their own examples. There is a built in compiler that utilizes an API bas
 example is hosted. 
 
 ## Installation
-An NPM install is required for the vue front end. The java server will run as is if you want to do testing with psotman
+An NPM install is required for the vue front end. The java server will run as is if you want to do testing with postman
 
 ## Authors and acknowledgment
 This project was built with contributions from:
